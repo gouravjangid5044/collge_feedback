@@ -1,3 +1,3 @@
 # collge_feedback
 
-Live Project Link => https://gouravjangid.com/colleg1
+Live Project Link => https://gouravjangid.com/college1
